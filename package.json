@@ -1,0 +1,18 @@
+{
+  "name": "projeto-web-2",
+  "version": "1.0.0",
+  "description": "https://www.figma.com/file/UgGazJ6GcDYRhIEhAxsLux/Venda-de-bon%C3%A9s?type=design&node-id=9%3A3&mode=dev&t=0eRjXFrx6iLVX1Gb-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
